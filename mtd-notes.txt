@@ -1,0 +1,14 @@
+mtd competative programming training
+
+DAY1 THURSDAY 06-03-2025
+
+IMPORTANT GIT COMMANDS
+
+1.git status//to know current status
+2.To download the updated repo//git pull origin main
+3.to clone//git clone https://github.com/neelmyna/vvce_mar25
+
+TO MAKE OUR COMPUTER RECOGNISE OUR GIT ACCOUNT,M WE MUST RUN THESE 2 CONFIGURATION COMMANDS:
+git config --global user.name "deekshithahy"
+git config --global user.email"deekshithahy@gmail.com"
+git clone https://@github.com/deekshithahy/mtd_c_py
